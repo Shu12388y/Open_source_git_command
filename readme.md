@@ -20,7 +20,7 @@ using</h2>
 <div>
 <h3>
 
-<b>Step 3: </b>git remote add upstream httlp://www.github/reponame/ </h3>
+<b>Step 3: </b>git remote add upstream http://www.github/reponame/ </h3>
 <h3>
 <b>Step 4:</b>git pull upstream master/main</h3>
 <p>
