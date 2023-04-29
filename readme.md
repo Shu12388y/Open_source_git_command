@@ -4,7 +4,7 @@ Useful commands for opensource contribution in github
 <h2>Git commands</h2>
 <div>
 <h2>
-Clone the repository using <b>Step 1:</b> git clone "https://github.com/username/reponame"
+Clone the repository using<br> <b>Step 1:</b> git clone "https://github.com/username/reponame"
 </h2>
 <img src="git clone.JPG" alt="gitclone">
 </div>
