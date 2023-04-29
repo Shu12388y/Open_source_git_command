@@ -29,7 +29,7 @@ This will add remote repo in your local system and sync with the repo</p>
 <div>
 <h3>
 
-<b>Step 4 :</b>git checkout -b branch Name
+<b>Step 5: </b>git checkout -b branch Name
 </h3>
 <p>
 it will make a new branch for you and switch the branch also</p>
@@ -37,26 +37,26 @@ it will make a new branch for you and switch the branch also</p>
 <div> <h2> Now add you changes in the files</h2> </div>
 
 <div>
-<h3> <b>Step 5:</b>git switch master/main
+<h3> <b>Step 6: </b>git switch master/main
 </h3>
 <h4>Switch to the main branch</h4>
 </div>
 <div>
-<h3><b>Step 6:</b> git add .
+<h3><b>Step 7: </b> git add .
 </h3>
 <h4>
 Add the changes in the files and folders</h4>
 </div>
 <div>
 <h3>
-<b>Step 7:</b>git commit -m "commit message"
+<b>Step 8: </b>git commit -m "commit message"
 </h3>
 <h4>
 Commit the changes with a commit message</h4>
 </div>
 <div>
 <h3>
-<b>Step 8:</b>git push
+<b>Step 9: </b>git push
 </h3>
 <h4>
 Push the changes</h4>
@@ -64,7 +64,7 @@ Push the changes</h4>
 
 <div>
 <h3>
-<b>Step 9:</b>After that create a pull request</h3>
+<b>Step 10: </b>After that create a pull request</h3>
 <img src="pullRequest-1.png" alt="pull request">
 
 </div>
