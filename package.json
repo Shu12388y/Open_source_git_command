@@ -1,0 +1,19 @@
+{
+  "name": "open_source_git_command",
+  "version": "1.0.0",
+  "description": "Open source commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shu12388y/Open_source_git_command.git"
+  },
+  "author": "shubham paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shu12388y/Open_source_git_command/issues"
+  },
+  "homepage": "https://github.com/Shu12388y/Open_source_git_command#readme"
+}
